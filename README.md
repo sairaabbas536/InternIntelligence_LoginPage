@@ -28,4 +28,13 @@ This project is a **responsive and modern login page** designed for seamless use
 
 ---
 
+## 🧾 License & Contact
+
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute it for personal or commercial projects, with proper attribution.
+
+---
+
+**Created by: Saira Abbas**  
+
+
 
